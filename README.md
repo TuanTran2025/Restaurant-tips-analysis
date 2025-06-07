@@ -7,8 +7,11 @@ This project aims to use the restaurant tips dataset to practice creating compos
 
 ## 2. Data Information
 
-### 2.1. Source of the data
+### Source of the data
 The data is coming from the link: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 
-### 2.2. Description of the dataset
+### Description of the dataset
 The dataset consists of information from 244 restaurant bills, collected in the US in 1987.
+It includes details about the tips given to restaurant staff, such as the total bill, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size.
+
+### 
