@@ -40,3 +40,6 @@ On average, customers tend to tip more on weekends. This may reflect a more rela
 Dinner service yields higher and more consistent tips.
 Lunch service shows lower tipping behavior, possibly due to shorter or less formal meals.
 ![image](https://github.com/user-attachments/assets/adb1cf6a-0122-4d65-b762-942204a1c8b8)
+
+For the whole project in details:
+https://colab.research.google.com/drive/17d4TpYs8IT0gHKakE0hA5PuqKOKhpt8i?usp=sharing
