@@ -17,14 +17,14 @@ It includes details about the tips given to restaurant staff, such as the total 
 ### Downloading data
 https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 
-## The main goals
+## 3. The main goals
 We will analyze the tip amount based on the following factors:
 * the day it occurred
 * if it was at lunch or dinner
 * the sex of the person
 * if they were a smoker or not
 
-## Results
+## 4. Results
 Smokers tend to tip a bit more on average & may have more consistent tipping patterns at moderate-to-high levels.
 Non-smokers being lower median tip suggests more small tippers &possibly a wider or left-skewed distribution.
 ![image](https://github.com/user-attachments/assets/f8b02fd2-efca-4caa-804f-bdc262158792)
