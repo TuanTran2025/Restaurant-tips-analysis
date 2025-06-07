@@ -43,4 +43,4 @@ Lunch service shows lower tipping behavior, possibly due to shorter or less form
 
 ( * For the whole project in details:
 https://colab.research.google.com/drive/17d4TpYs8IT0gHKakE0hA5PuqKOKhpt8i?usp=sharing
-or: https://github.com/TuanTran2025/Restaurant-tips-analysis/blob/main/Restaurant%20tips%20analysis.ipynb )
+or: https://github.com/TuanTran2025/Restaurant-tips-analysis/blob/main/Restaurant%20tips%20analysis.ipynb * )
