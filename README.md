@@ -18,8 +18,19 @@ It includes details about the tips given to restaurant staff, such as the total 
 https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 
 ## The main goals
-We will analyse the tip amount based on the following factors:
+We will analyze the tip amount based on the following factors:
 * the day it occurred
 * if it was at lunch or dinner
 * the sex of the person
 * if they were a smoker or not
+
+## Results
+* Smokers tend to tip a bit more on average & may have more consistent tipping patterns at moderate-to-high levels.
+* Non-smokers being lower median tip suggests more small tippers &possibly a wider or left-skewed distribution.
+![image](https://github.com/user-attachments/assets/f8b02fd2-efca-4caa-804f-bdc262158792)
+
+* Males tip more than females, both on average (mean) and typically (median). The highest tips are given by males, extending up to 10 bucks.
+* Females have a tighter tipping range, maxing out at 6.50 bucks — suggesting less variance and fewer outliers.
+* On average, customers tend to tip more on weekends. This may reflect a more relaxed dining experience, higher total bills, or more social/group outings
+* Dinner service yields higher and more consistent tips.
+* Lunch service shows lower tipping behavior, possibly due to shorter or less formal meals.
